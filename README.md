@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**harshvisoni-web/harshvisoni-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harshvisoni-web/Harshvi Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
